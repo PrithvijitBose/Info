@@ -152,7 +152,6 @@ Below is the directory index providing clickable access to all local media asset
 - 📂 **[Brand/Media Assets](./Brand/Media%20Assets/)** - Primary repository media assets folder.
 - 📁 **[Project Icons SVGs](./Brand/Media%20Assets/Project%20Icons%20SVGs/)** - Project logos and icons for all AOSSIE sub-projects.
 - 📁 **[AOSSIE Intro Video](./Brand/Media%20Assets/AOSSIE%20Intro%20Video)** - The official intro video for AOSSIE provided in Original, 1080p, 720p and gif.
-- 📁 **[AOSSIE Project Video Guide](./Brand/Media%20Assets/AOSSIE%20Project%20Video%20Guide)** - Comprehensive guides for creating project Teaser and Explainer videos.
 
 ---
 
@@ -165,6 +164,8 @@ Below is the directory index providing clickable access to all local media asset
 | **intro_1080p** | MP4 | [`intro_1080p.mp4`](./Brand/Media%20Assets/AOSSIE%20Intro%20Video/intro_1080p.mp4) | 1080p Quality Intro Video |
 | **intro_720p** | MP4 | [`intro_720p.mp4`](./Brand/Media%20Assets/AOSSIE%20Intro%20Video/intro_720p.mp4) | 720p Quality Intro Video  |
 | **intro_gif** | GIF | [`intro_gif.gif`](./Brand/Media%20Assets/AOSSIE%20Intro%20Video/intro_gif.gif) | GIF Intro Video  |
+
+> Refer to the [Project Video Production Guides](./Guides/Videos.md) for step-by-step instructions on creating project Teaser and Explainer videos using official AOSSIE assets.
 ---
 
 ### 🧳 B. Merchandise & Bag Assets
@@ -276,17 +277,6 @@ Below is the directory index providing clickable access to all local media asset
 | **StablePay Logo** | [`stablepay_logo.png`](./Brand/Media%20Assets/Project%20Icons%20PNGs/stablepay_logo.png) | [`stablepay_logo.svg`](./Brand/Media%20Assets/Project%20Icons%20SVGs/stablepay_logo.svg) |
 | **TNT Logo** | [`tnt_logo.png`](./Brand/Media%20Assets/Project%20Icons%20PNGs/tnt_logo.png) | [`tnt_logo.svg`](./Brand/Media%20Assets/Project%20Icons%20SVGs/tnt_logo.svg) |
 | **Zplit Logo** | [`zplit_logo.png`](./Brand/Media%20Assets/Project%20Icons%20PNGs/zplit_logo.png) | [`zplit_logo.svg`](./Brand/Media%20Assets/Project%20Icons%20SVGs/zplit_logo.svg) |
-
----
-
-### 🎬 J. Project Video Production Guides
-**Directory Path**: [`Brand/Media Assets/AOSSIE Project Video Guide`](./Brand/Media%20Assets/AOSSIE%20Project%20Video%20Guide/)
-
-| Document | Format | Direct Link | Description |
-| :--- | :--- | :--- | :--- |
-| **Video Format Overview** | Markdown | [`Videos.md`](./Brand/Media%20Assets/AOSSIE%20Project%20Video%20Guide/Videos.md) | Teaser vs. Explainer video comparison and selection matrix |
-| **Teaser Video Production Guide** | Markdown | [`TeaserVideo.md`](./Brand/Media%20Assets/AOSSIE%20Project%20Video%20Guide/TeaserVideo.md) | Production handbook for short, high-energy teaser videos ($\le$ 60s) |
-| **Explainer Video Production Guide** | Markdown | [`ExplainerVideo.md`](./Brand/Media%20Assets/AOSSIE%20Project%20Video%20Guide/ExplainerVideo.md) | Practical guide for instructional product walkthrough videos ($\le$ 120s) |
 
 ---
 
